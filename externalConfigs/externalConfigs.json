@@ -1,0 +1,21 @@
+{
+	"bduInfo": [
+		{
+			"partnerName": "Rogers",
+			"partnerNumber": "1-888-Rogers-1"
+		},
+		{
+			"partnerName": "Shaw",
+			"partnerNumber": "1-888-472-2222"
+		},
+		{
+			"partnerName": "Source",
+			"partnerNumber": "1-866-785-7851"
+		}
+	],
+	"memberServices": {
+		"phoneword" : "1-855-41shomi",
+		"telephoneNumber" : "1-855-417-4664"
+	}
+
+}
